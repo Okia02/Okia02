@@ -2,7 +2,7 @@
 
 - 🌱 I've followed the [Adalab](https://adalab.es/bootcamp-programacion/)'s bootcamp to become developer.
 - 😍 I'm in love with learning languages (both spoken by people or machines!).
--:smile_cat::smile_cat: I live with two lovely cats.
+- :smile_cat::smile_cat: I live with two lovely cats.
 - 🥅 2022 Goal: +1 programming language
 
 #### Connect with me:
